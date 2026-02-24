@@ -4,3 +4,4 @@ plotly
 pandas
 requests
 lxml
+curl_cffi
